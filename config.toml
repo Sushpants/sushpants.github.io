@@ -1,6 +1,32 @@
-baseURL = "Sushpants.github.io"
-languageCode = "en-us"
+baseURL = "https://sushpants.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
 title = "Sushpants"
 theme = "hallo"
-[params.colors]
-        background = "#1F618D"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "Hallo"
+
+[params]
+
+    [[params.links]]
+        iconset = "youtube"
+        icon = "youtube"
+        title = "youtube"
+        url = "https://youtube.com/sushpants"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/"
+
+    [[params.links]]
+        icon = "instagram"
+        title = "instagram"
+        url = "https://instagram.com"
+
+    [[params.colors]]
+        background = "#81c6ff"
+        foreground = "#edf7ff"
+        hover = "#ffba82"
