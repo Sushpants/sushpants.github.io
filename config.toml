@@ -1,4 +1,4 @@
-baseURL = "https://sushpants.github.io/"
+baseURL = "sushpants.github.io"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Sushpants"
