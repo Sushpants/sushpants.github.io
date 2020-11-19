@@ -1,0 +1,6 @@
+baseURL = "Sushpants.github.io"
+languageCode = "en-us"
+title = "Sushpants"
+theme = "hallo"
+[params.colors]
+        background = "#1F618D"
