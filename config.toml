@@ -25,8 +25,3 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         icon = "instagram"
         title = "instagram"
         url = "https://instagram.com"
-
-    [[params.colors]]
-        background = "#81c6ff"
-        foreground = "#edf7ff"
-        hover = "#ffba82"
